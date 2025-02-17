@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://www.solapi.com" target="_blank"><img src="https://raw.githubusercontent.com/solapi/.github/main/assets/logo.svg" alt="solapi logo" /></a> 커뮤니티에 오신것을 환영합니다!</h1>
+<h1 align="center"><a href="https://www.solapi.com" target="_blank" style="margin-right: 16px;"><img src="https://raw.githubusercontent.com/solapi/.github/main/assets/logo.svg" alt="solapi logo" /></a> 커뮤니티에 오신것을 환영합니다!</h1>
 <br/>
 <p align="center">  
   <br/><br/>
