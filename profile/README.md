@@ -5,5 +5,5 @@
   <br/>
   SOLAPI를 통해서 다른 업체에서 경험하지 못한 <a href="https://developers.solapi.com/intro" target="_blank">모던화 된 SDK</a>와 함께 쉽고 빠르게 알림톡/문자 등을 발송해보세요!
   <br/><br/>
-  신규 기능 및 언어 추가지원 등 다양한 논의를 하고자 하신다면 <a href="https://github.com/solapi/community/discussions" target="_blank">Community Discussions</a>를 방문해보세요!
+  신규 기능 및 언어 추가지원 등 SOLAPI SDK에 관련된 다양한 논의를 하고자 하신다면 <a href="https://github.com/solapi/community/discussions" target="_blank">Community Discussions</a>를 방문해보세요!
 </p>
